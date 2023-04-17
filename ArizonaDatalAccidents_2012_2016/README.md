@@ -6,7 +6,7 @@ Utilizando BigQuery, se busca comprender las causas de los accidentes de tránsi
 
 El estudio y análisis de datos pertenecientes a esta temática, permite tomar medidas correctivas y preventivas en los lugares o escenarios en donde se han presentado con mayor frecuencia estos accidentes, además de crear estrategias que reduzcan la gravedad y reiteración de los mismos. Por otra parte, se pueden identificar y proponer mejoras en el diseño de vehículos y del sistema vial de la zona en la que se realizó la toma de datos, en este caso, Arizona.
 
-------------------------------********************************_____________________________
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Los datos y toda la información para este proyecto fue tomada de la plataforma de datos abiertos "https://data.world"
 
