@@ -24,13 +24,13 @@ Los datos y tablas usadas también se encuentran en la carpeta "Data de este rep
 
 **Participantes:**
 
-Alexánder Bedoya Carvajal
+- Alexánder Bedoya Carvajal
 
-Brahayan Stiven Henao Gil
+- Brahayan Stiven Henao Gil
 
-Sebastian Salamanca Mendez
+- Sebastian Salamanca Mendez
 
-Carolina Pineda Sanmartin
+- Carolina Pineda Sanmartin
 
 
 
