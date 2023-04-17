@@ -8,7 +8,7 @@ El estudio y análisis de datos pertenecientes a esta temática, permite tomar m
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512D/aZG+eJpB52jJgyMnsIwJNc4YfN4Q5j5mkI/jtPr5szJFgS5m8WwEbbQvVYgBXn+teuV7Wb9LMFNFV7rKhBAA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <i class="fab fa-twitter"></i>
 
 
