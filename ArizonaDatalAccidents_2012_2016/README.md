@@ -1,6 +1,6 @@
 # Análisis de accidentes fatales en Arizona entre los años 2012 y 2016
 
-### Los accidentes de tránsito se han convertido en una situación común en el día a día de las personas, donde hay diversas causas como fallas técnicas, error humano o el entorno en el que sucede, por lo cual, se pretende analizar cuales son los principales motivos por los cuales se presentan los accidentes de tránsito, acotando la problemática en la ciudad de Arizona.
+Los accidentes de tránsito se han convertido en una situación común en el día a día de las personas, donde hay diversas causas como fallas técnicas, error humano o el entorno en el que sucede, por lo cual, se pretende analizar cuales son los principales motivos por los cuales se presentan los accidentes de tránsito, acotando la problemática en la ciudad de Arizona.
 
 - ¿Por qué le llamó la atención?
 
